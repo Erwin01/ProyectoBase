@@ -1,1 +1,2 @@
-Esto es para crear la carpeta
+Descargar la carpeta node_modules
+Command: npm i
