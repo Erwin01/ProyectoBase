@@ -1,0 +1,35 @@
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.Domain\bin\Debug\BA.Domain.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.Domain\bin\Debug\BA.Domain.pdb
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.pdb
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\BA.Domain.dll.config
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\BA.Domain.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\BA.Domain.pdb
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\BA.Data.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\BA.Data.pdb
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\BA.Data.dll.config
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.csprojAssemblyReference.cache
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.csproj.CopyComplete
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.pdb
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\BA.Domain.dll.config
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\BA.Domain.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\BA.Domain.pdb
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\BA.Data.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\EntityFramework.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\BA.Data.pdb
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\BA.Data.dll.config
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\EntityFramework.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.csproj.AssemblyReference.cache
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.csproj.CoreCompileInputs.cache
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.csproj.CopyComplete
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.Domain\obj\Debug\BA.Domain.pdb

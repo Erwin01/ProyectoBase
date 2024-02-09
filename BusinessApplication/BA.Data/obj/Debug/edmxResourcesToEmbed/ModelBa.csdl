@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="baServiciosVirtualesEntitiesModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Member">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="ProjectId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Title" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Project" Relationship="Self.FK_Project_Member" FromRole="Member" ToRole="Project" />
+  </EntityType>
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ProjectName" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CreateDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="StartDate" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="EndDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Member" Relationship="Self.FK_Project_Member" FromRole="Project" ToRole="Member" />
+  </EntityType>
+  <Association Name="FK_Project_Member">
+    <End Role="Member" Type="Self.Member" Multiplicity="1" />
+    <End Role="Project" Type="Self.Project" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Member">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Project">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="baServiciosVirtualesEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Members" EntityType="Self.Member" />
+    <EntitySet Name="Projects" EntityType="Self.Project" />
+    <AssociationSet Name="FK_Project_Member" Association="Self.FK_Project_Member">
+      <End Role="Member" EntitySet="Members" />
+      <End Role="Project" EntitySet="Projects" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

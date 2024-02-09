@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="baServiciosVirtualesEntitiesModelStoreContainer" CdmEntityContainer="baServiciosVirtualesEntities">
+    <EntitySetMapping Name="Members">
+      <EntityTypeMapping TypeName="baServiciosVirtualesEntitiesModel.Member">
+        <MappingFragment StoreEntitySet="Member">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ProjectId" ColumnName="ProjectId" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Projects">
+      <EntityTypeMapping TypeName="baServiciosVirtualesEntitiesModel.Project">
+        <MappingFragment StoreEntitySet="Project">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="ProjectName" ColumnName="ProjectName" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="StartDate" ColumnName="StartDate" />
+          <ScalarProperty Name="EndDate" ColumnName="EndDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
