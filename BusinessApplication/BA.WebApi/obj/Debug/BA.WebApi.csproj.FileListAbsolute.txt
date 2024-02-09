@@ -1,0 +1,307 @@
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\BA.WebApi.dll.config
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\BA.WebApi.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\BA.WebApi.pdb
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\csc.exe
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\csc.exe.config
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\csc.rsp
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\csi.exe
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\csi.exe.config
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\csi.rsp
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Console.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\vbc.exe
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\vbc.rsp
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\Antlr3.Runtime.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.Helpers.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.Http.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.Mvc.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.Optimization.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.Razor.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\WebGrease.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.Helpers.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.Http.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.Mvc.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.Optimization.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.Razor.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.csproj.CopyComplete
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.dll
+C:\Users\ERWIN\source\repos\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.pdb
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.WebApi.dll.config
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.WebApi.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.WebApi.pdb
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\csc.exe
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\csc.exe.config
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\csc.rsp
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\csi.exe
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\csi.exe.config
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\csi.rsp
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Console.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\vbc.exe
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\vbc.rsp
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\Antlr3.Runtime.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.Data.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.Domain.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\EntityFramework.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Helpers.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Http.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Mvc.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Optimization.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Razor.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\WebGrease.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.Data.pdb
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.Data.dll.config
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.Domain.pdb
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.Domain.dll.config
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\EntityFramework.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Helpers.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Http.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Mvc.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Optimization.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Razor.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.Http.resources.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.Razor.resources.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.csprojAssemblyReference.cache
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.csproj.CopyComplete
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.dll
+C:\Users\Algar\Desktop\Development\ProyectoBase\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.pdb
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.WebApi.dll.config
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.WebApi.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.WebApi.pdb
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\csc.exe
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\csc.exe.config
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\csc.rsp
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\csi.exe
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\csi.exe.config
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\csi.rsp
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.AppContext.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Collections.Immutable.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Console.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.Compression.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.FileSystem.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.IO.Pipes.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.AccessControl.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Claims.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.ValueTuple.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Xml.XPath.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\vbc.exe
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\vbc.exe.config
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\vbc.rsp
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\VBCSCompiler.exe
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\roslyn\VBCSCompiler.exe.config
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\Antlr3.Runtime.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.Data.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.Domain.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\EntityFramework.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\EntityFramework.SqlServer.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\Microsoft.Web.Infrastructure.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\Newtonsoft.Json.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Net.Http.Formatting.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Helpers.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Http.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Http.WebHost.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Mvc.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Optimization.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Razor.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.Deployment.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.Razor.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\WebGrease.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.Data.pdb
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.Data.dll.config
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.Domain.pdb
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\BA.Domain.dll.config
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\EntityFramework.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\EntityFramework.SqlServer.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\Newtonsoft.Json.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Net.Http.Formatting.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Helpers.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Http.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Http.WebHost.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Mvc.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Optimization.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.Razor.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.Deployment.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Web.WebPages.Razor.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\Antlr3.Runtime.pdb
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.Helpers.resources.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.Http.resources.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.Mvc.resources.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.Optimization.resources.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.Razor.resources.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.WebPages.resources.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.csproj.AssemblyReference.cache
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.csproj.CoreCompileInputs.cache
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.csproj.CopyComplete
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.dll
+D:\Videos Develop 2022-23\Desarrollos viejos\ProyectoBase\BusinessApplication\BA.WebApi\obj\Debug\BA.WebApi.pdb
